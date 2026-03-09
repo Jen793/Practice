@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="29.6.1" pages="2">
+  <diagram name="Part A - Flowchart" id="nlMuF8AdDn0fV1xrwJ85">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1Q9T8fNc68SWCZi1GTxw-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;QC NewBooks -- Post Entry Logic&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="480" x="140" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="1Q9T8fNc68SWCZi1GTxw-3" parent="1" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;START&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="305" y="1090" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Part B - ERD" id="v6VfJn5w3mHwv23rdyVH">
+    <mxGraphModel dx="786" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="f2YCHfbB1tKieYehHmhn-0" />
+        <mxCell id="f2YCHfbB1tKieYehHmhn-1" parent="f2YCHfbB1tKieYehHmhn-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
